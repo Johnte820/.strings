@@ -1,0 +1,7 @@
+#adding intagers and decimals
+x=20
+y=30
+a=22.332
+b=44.334
+print("the sum of %d and %d is %d" % (x,y,x+y))
+print("the sum of %0.2f and %0.2f is %0.2f" % (a,b,a+b))

@@ -1,0 +1,7 @@
+#methods
+x="hello hello world"
+print(len(x))
+print(x.upper())
+print(x.lower())
+print(x.replace('h','y'))
+print(x.capitalize())

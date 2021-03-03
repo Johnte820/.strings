@@ -1,0 +1,5 @@
+#indexing strings
+name="john"
+letter=name[2]
+letter=name[-1]
+print(letter)

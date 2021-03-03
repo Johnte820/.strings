@@ -1,0 +1,3 @@
+#length of strings
+name="ann dawson"
+print(len(name),end=" ") #end "" tells the compiler to include a space

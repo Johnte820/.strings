@@ -1,0 +1,8 @@
+#operators
+a="banana"
+b="orange"
+print(a*3)
+print(a>b)
+print(a<b)
+print(a+b)
+print("this is ann's spam")
